@@ -7,8 +7,6 @@ namespace checkout_kata.Console
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
-            Basket.Scan("A99", 8);
-            Basket.Total();
         }
     }
 }
